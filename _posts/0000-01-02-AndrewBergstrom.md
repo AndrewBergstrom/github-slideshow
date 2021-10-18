@@ -1,9 +1,4 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
-
-
-We are making changes!
+ created a branch.
+ created a file.
+ made a commit. 
+ opened a pull request
